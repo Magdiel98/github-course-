@@ -6,3 +6,4 @@ Este é um repositório teste para saber como o Git Funciona.
 
 Gostou do curso? Quer mais? Ajude com uma doação!
 
+Mais uma mudança no arquivo Readme.md
